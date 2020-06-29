@@ -1,0 +1,51 @@
+permalink: /:year:month:day/:title
+url: #Your url here
+baseurl: /
+
+# variables
+name: Pepe's Playlists
+description: The best Playlists in the world, by Pepe
+google_verification: null
+
+
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable : true
+
+#jEKTIFY STUFF
+
+plugins:
+  - jektify
+
+jektify:
+  enable: true
+  open: true
+  toggle:
+    enable: true  
+  #spotify:
+  #  user: williamcanin
+   # text: See me no Spotify
+  sass:
+    jekyll: true
+    other:
+      dir: "way/to/your/SASS"   
+  title:
+    enable: false
+    text: "Jektify"
+  description:
+    enable: false
+    text: |
+      Jekyll plugin to generate html snippets for embedding Spotify Musics.
+      To listen to the full song, open your Spotify and start these musics.
