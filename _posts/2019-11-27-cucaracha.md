@@ -8,5 +8,4 @@ tags: Genres Mood
 by: [brigadiano](https://open.spotify.com/user/brigadiano)
 
 
-
-{%jektify brigadiano/playlist/0padTZxNtN40L4bB2UULHJ/light %}
+<iframe src="https://open.spotify.com/embed/playlist/0padTZxNtN40L4bB2UULHJ" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

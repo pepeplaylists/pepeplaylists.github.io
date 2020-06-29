@@ -8,5 +8,5 @@ tags: Genres
 by: [brigadiano](https://open.spotify.com/user/brigadiano)
 
 
+<iframe src="https://open.spotify.com/embed/playlist/6rni1w2ReLxBbpCYqinwbP" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-{%jektify brigadiano/playlist/6rni1w2ReLxBbpCYqinwbP/light %}
