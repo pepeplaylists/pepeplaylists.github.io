@@ -34,9 +34,9 @@ jektify:
   open: true
   toggle:
     enable: true  
-  #spotify:
-  #  user: williamcanin
-   # text: See me no Spotify
+  spotify:
+    user: 
+    text: 
   sass:
     jekyll: true
     other:
