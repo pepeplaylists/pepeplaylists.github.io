@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+em "jektify"
 gem 'jekyll'
 gem 'github-pages'
 
