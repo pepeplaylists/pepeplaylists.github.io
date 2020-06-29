@@ -24,28 +24,3 @@ kramdown:
   syntax_highlighter_opts:
     disable : true
 
-#jEKTIFY STUFF
-
-plugins:
-  - jektify
-
-jektify:
-  enable: true
-  open: true
-  toggle:
-    enable: true  
-  spotify:
-    user: 
-    text: 
-  sass:
-    jekyll: true
-    other:
-      dir: "way/to/your/SASS"   
-  title:
-    enable: false
-    text: "Jektify"
-  description:
-    enable: false
-    text: |
-      Jekyll plugin to generate html snippets for embedding Spotify Musics.
-      To listen to the full song, open your Spotify and start these musics.
