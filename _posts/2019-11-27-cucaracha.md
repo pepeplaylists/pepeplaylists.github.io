@@ -9,4 +9,4 @@ by: [brigadiano](https://open.spotify.com/user/brigadiano)
 
 
 
-{% jektify brigadiano/playlist/0padTZxNtN40L4bB2UULHJ/light %}
+{%jektify brigadiano/playlist/0padTZxNtN40L4bB2UULHJ/light %}
