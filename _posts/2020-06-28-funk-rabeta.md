@@ -6,6 +6,7 @@ tags: Mood Genre
 ![Pepe](/assets/img/funk_rabeta.png){:style="width:150px"}
 ## Hoje vai rola um adultério
 Aquelas musicas pra ir pro baile sem calcinha. Playslit original por: [lucas_padula1](https://open.spotify.com/user/lucas_padula1)
+
 by: [jiboli](https://open.spotify.com/user/12144536312)
 
 
