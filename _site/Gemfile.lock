@@ -7,8 +7,8 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
       zeitwerk (~> 2.2, >= 2.2.2)
-    addressable (2.7.0)
-      public_suffix (>= 2.0.2)
+    addressable (2.8.0)
+      public_suffix (>= 2.0.2, < 5.0)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -86,9 +86,6 @@ GEM
     http_parser.rb (0.6.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
-    jektify (1.0.3)
-      jekyll (~> 3.8.2, ~> 3.8)
-      sass (~> 3.5.6, ~> 3.5)
     jekyll (3.8.7)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -246,7 +243,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jektify
   jekyll
 
 BUNDLED WITH
